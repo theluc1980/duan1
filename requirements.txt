@@ -1,0 +1,2 @@
+flask
+gunicorn  # WSGI server để chạy ứng dụng
